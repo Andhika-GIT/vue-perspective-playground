@@ -41,7 +41,7 @@ main {
 main label {
   display: block;
 }
-main input[type='range'] {
+main input[type="range"] {
   display: block;
   margin-bottom: 10px;
   width: 200px;
@@ -58,7 +58,6 @@ section.settings {
   width: 150px;
   height: 150px;
   background: #8d81f3;
-  transform: rotateX(20deg) rotateY(20deg);
 }
 
 button {
